@@ -1,0 +1,20 @@
+move to flask lab folder
+
+ls -a
+git remote -v
+git remote rm origin
+git remote -v
+open github repository
+create a new repository 
+git init
+git add .
+git status
+git commit -m "first commit"
+git config --global user.email "you@example"
+git config --global user.name "username"
+git commit -m
+git branch -M main
+git remote add origin https://github.com/....
+git push -u origin main
+
+
